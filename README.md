@@ -49,7 +49,7 @@ team-management-app/
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/team-management-app.git
+git clone https://github.com/tamiliniyan05xo/team-management-app.git
 cd team-management-app
 ```
 
